@@ -7,8 +7,7 @@ This project is a web and desktop application for visualizing chemical equipment
 ```
 chemical-equipment-visualizer/
 │
-├── backend/                 # Django backend and analytics API
-│   ├── manage.py
+├── repo-root/backend/manage.py                # Django backend and analytics API
 │   ├── requirements.txt
 │   ├── backend/
 │   │   ├── __init__.py
